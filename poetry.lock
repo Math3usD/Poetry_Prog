@@ -1,0 +1,18 @@
+[[package]]
+name = "white"
+version = "0.1.2"
+description = "Black, but White instead (PEP8 line–lengths)."
+category = "main"
+optional = false
+python-versions = ">=3.6.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "44cf72e0dac22787c4a61adfc86131023809cfccdf9962b0d7941ffb0b89b67a"
+
+[metadata.files]
+white = [
+    {file = "white-0.1.2-py2.py3-none-any.whl", hash = "sha256:bca98066256cfff6fb85ec36b95cc5913c888c170a8407c340786972b06c6f8f"},
+    {file = "white-0.1.2.tar.gz", hash = "sha256:45e2c7f54de1facc60bf0a726b480cdc43422aad57c3a0bc5ba54cb536696683"},
+]
