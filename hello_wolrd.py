@@ -1,2 +1,2 @@
-print('foi cacete')
+print('boa')
 
